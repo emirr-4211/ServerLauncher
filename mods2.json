@@ -1,0 +1,119 @@
+[
+  {
+    "name": "voicechat.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/voicechat-fabric-1.21.11-2.6.12.jar",
+    "md5": "E3FC73BBBABC144E264EAB41A6BD3CD1"
+  },
+  {
+    "name": "yetconfig.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+    "md5": "0de1337147953ff71854bfd4ce874629"
+  },
+    {
+    "name": "minimap.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/xaerominimap-fabric-1.21.11-25.3.10.jar",
+    "md5": "c74fd7631ac37d94a80a0d2d196a28f9"
+  },
+    {
+    "name": "ukulib.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/ukulib-1.10.2+1.21.11.jar",
+    "md5": "4b3650f6bb068881361714608fe10d91"
+  },
+    {
+    "name": "sodiumfabric1.jar",
+    "url": "hhttps://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/sodium-fabric-0.8.6+mc1.21.11.jar",
+    "md5": "4044f71541bdadabef0cb720a9ecc589"
+  },
+    {
+    "name": "sodiumfabric2.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
+    "md5": "6d9e005c52ed09fe681330408f05815c"
+  },
+    {
+    "name": "simplearmorhud.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/simple-armor-hud-1.21.11-1.8.0.jar",
+    "md5": "3a8cfc25b7b34cf36ea5f4bfd1ea1bdb"
+  },
+      {
+    "name": "shulkerbox.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/shulkerboxtooltip-fabric-5.2.15+1.21.11.jar",
+    "md5": "dbcd96eae63b872a0c800bc542c77a55"
+  },
+      {
+    "name": "sodiumoptions.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar",
+    "md5": "e27a13afb9a61f57af114e0f93fa8727"
+  },
+      {
+    "name": "prickle.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/prickle-fabric-1.21.11-21.11.1.jar",
+    "md5": "347805fd58381814f5e9a011230f2b5a"
+  },
+      {
+    "name": "noisum.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/noisium-fabric-2.8.3+mc1.21.11.jar",
+    "md5": "59291bc578be19e3431e22b2975fc3c0"
+  },
+      {
+    "name": "moreculling.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/moreculling-fabric-1.21.11-1.6.2.jar",
+    "md5": "8be2f9cf05efc60bbee7d41b4e598097"
+  },
+      {
+    "name": "modmenu.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/modmenu-17.0.0-beta.2.jar",
+    "md5": "876eca2ec6fa50d36b4bd9320ec680a1"
+  },
+      {
+    "name": "modernfix.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/modernfix-5.26.2-build.1.jar",
+    "md5": "165929548e5501ac292d52a9b62248c2"
+  },
+      {
+    "name": "makebubbles.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/make_bubbles_pop-0.3.2-fabric-mc1.21.9-1.21.10.jar",
+    "md5": "edec2cf40c09b781ea0c8b1dac013c50"
+  },
+      {
+    "name": "ImmediatelyFast.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+    "md5": "033dba6be467d96932d11ad7d171a829"
+  },
+      {
+    "name": "ferritecore.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/ferritecore-8.2.0-fabric.jar",
+    "md5": "3b5c6f5fe571ce945303fc37d5f4c15c"
+  },
+      {
+    "name": "fabricapi.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/fabric-api-0.141.3+1.21.11.jar",
+    "md5": "f7e723a1649302a0a6923022a7596f1a"
+  },
+
+    {
+    "name": "enchdesc.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/enchdesc-fabric-1.21.11-21.11.1.jar",
+    "md5": "696ed4850b551616adbd6284b2db3436"
+  },
+      {
+    "name": "clothconfig.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/cloth-config-21.11.153-fabric.jar",
+    "md5": "9de770889c2b19445f57f881e4f7d6f8"
+  },
+        {
+    "name": "cicadalib.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/cicada-lib-0.14.3+1.21.9-1.21.10.jar",
+    "md5": "072b79bcfa416303462e09c99173a29e"
+  },
+        {
+    "name": "bbe.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/bbe-1.3.0+1.21.11.jar",
+    "md5": "6263fc5c3d8d6f802477df0541dca854"
+  },
+        {
+    "name": "appleskin.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/appleskin-fabric-mc1.21.11-3.0.8.jar",
+    "md5": "e725606e8b0ae1c83ade7cfd0aea9e73"
+  }
+  
+]
