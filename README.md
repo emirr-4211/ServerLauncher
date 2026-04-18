@@ -38,6 +38,11 @@ Tüm sistem server ile senkronize çalışır, böylece herkes aynı sürüm ve 
 Bu proje, arkadaşlar arasında ortak ve sorunsuz bir oyun ortamı oluşturmak amacıyla geliştirilmiştir.
 Kullanıcıların manuel mod ve kurulum işlemleriyle uğraşmasını ortadan kaldırır.
 
+## BILGI
+
+Bu Launcher Herkese Açık değildir sadece arkadaşlar arasında kullanılmak için tasarlanmıştır son kullanıcıya uygun değildir.
+
 ## Katkı
 
 Katkıda bulunmak isteyenler pull request gönderebilir.
+
