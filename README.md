@@ -33,12 +33,6 @@ Tüm sistem server ile senkronize çalışır, böylece herkes aynı sürüm ve 
 * İlk çalıştırmada gerekli dosyalar indirileceği için açılış süresi uzayabilir
 * Stabil kullanım için internet bağlantısı gereklidir
 
-## Kurulum (Geliştiriciler için)
-
-```bash
-git clone https://github.com/kullaniciadi/ServerLauncher.git
-```
-
 ## Amaç
 
 Bu proje, arkadaşlar arasında ortak ve sorunsuz bir oyun ortamı oluşturmak amacıyla geliştirilmiştir.
