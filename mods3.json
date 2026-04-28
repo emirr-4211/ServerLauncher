@@ -25,11 +25,6 @@
     "md5": "4044f71541bdadabef0cb720a9ecc589"
   },
     {
-    "name": "sodiumfabric2.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
-    "md5": "6d9e005c52ed09fe681330408f05815c"
-  },
-    {
     "name": "simplearmorhud.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/simple-armor-hud-1.21.11-1.8.0.jar",
     "md5": "3a8cfc25b7b34cf36ea5f4bfd1ea1bdb"
@@ -109,6 +104,36 @@
     "name": "bbe.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/bbe-1.3.0+1.21.11.jar",
     "md5": "6263fc5c3d8d6f802477df0541dca854"
+  },
+          {
+    "name": "fallingtree.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/FallingTree-1.21.11-1.21.11.3.jar",
+    "md5": "6A9BDE6E9003EBE047870EEB07EBE7AA"
+  },
+            {
+    "name": "nochatreports.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/NoChatReports-FABRIC-1.21.11-v2.18.0.jar",
+    "md5": "782DD7D86817179FDC7A364F78B87B66"
+  },
+              {
+    "name": "bridges.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/mcw-bridges-3.1.2-mc1.21.11fabric.jar",
+    "md5": "E2B5B42F59392A9D798FEA87C4AA3D92"
+  },
+                {
+    "name": "gravestones.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/gravestones-1.3.1+1.21.11+A.jar",
+    "md5": "4FC1546E99A6D796257FE1ECF3D0A36E"
+  },
+                  {
+    "name": "entity.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/entityculling-fabric-1.10.1-mc1.21.11.jar",
+    "md5": "F3006C2F641FBE1686547AD997DCF897"
+  },
+                    {
+    "name": "lithium.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/lithium-fabric-0.21.4+mc1.21.11.jar",
+    "md5": "B4CA44F58755E258A9B1EA5FD7B3644A"
   },
         {
     "name": "appleskin.jar",
