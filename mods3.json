@@ -160,6 +160,16 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/veinminer-fabric-2.6.0.jar",
     "md5": "4232A8027CA5086B453C7EC784BC5003"
   },
+                           {
+    "name": "silkall.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/silk-all-1.11.5.jar",
+    "md5": "32572AB041E26854F0478F04F0D89F88"
+  },
+                             {
+    "name": "fabric-language-kotlin.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+    "md5": "06F4497B65F800A0B110025D8E9A4005"
+  },
         {
     "name": "appleskin.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/appleskin-fabric-mc1.21.11-3.0.8.jar",
