@@ -140,6 +140,26 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/pneumonocore-1.3.1+1.21.11+A.jar",
     "md5": "3D40E7A5D35AE80FBF2B84F62999C0DB"
   },
+                   {
+    "name": "carryon.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/carryon-fabric-1.21.11-2.9.0.jar",
+    "md5": "01EC701FAEC604854610F75018BAC85A"
+  },
+                     {
+    "name": "enderitemod.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/enderitemod-fabric-1.21.11-1.8.2.jar",
+    "md5": "43066EE1E22CE027B4E4025F470B6696"
+  },
+                       {
+    "name": "architectury.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/architectury-19.0.1-fabric.jar",
+    "md5": "F5ADFE74F690E3CD014F1C95129A6ED4"
+  },
+                         {
+    "name": "veinminer.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/veinminer-fabric-2.6.0.jar",
+    "md5": "4232A8027CA5086B453C7EC784BC5003"
+  },
         {
     "name": "appleskin.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/appleskin-fabric-mc1.21.11-3.0.8.jar",
