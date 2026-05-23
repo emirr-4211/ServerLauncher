@@ -24,10 +24,6 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/appleskin-forge-mc1.20.1-2.5.1.jar"
   },
     {
-    "name": "bettercombat.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/bettercombat-forge-1.9.0+1.20.1.jar"
-  },
-    {
     "name": "carryon.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/carryon-forge-1.20.1-2.1.2.7.jar"
   },
@@ -64,10 +60,6 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/hardcore_torches-1.20.1-x.jar"
   },
         {
-    "name": "darkness.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/hardcoretruedarkness-4.0.0.jar"
-  },
-        {
     "name": "aircraft.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/immersive_aircraft-1.4.0+1.20.1-forge.jar"
   },
@@ -88,10 +80,6 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/moonlight-1.20-2.16.32-forge.jar"
   },
           {
-    "name": "animationlib.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
-  },
-          {
     "name": "radiummc.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
   },
@@ -99,10 +87,7 @@
     "name": "fullib.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/resourcefullib-forge-1.20.1-2.1.29.jar"
   },
-          {
-    "name": "machines.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/siege-machines-1.20.1-forge-1.39.jar"
-  },
+
           {
     "name": "smallships.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/smallships-forge-1.20.1-2.0.0-b1.4.jar"
@@ -135,6 +120,27 @@
     "name": "tpa.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/tpamod-1.2.jar"
   },
+                 {
+    "name": "aioptimize.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/AI-Improvements-1.20-0.5.2%20(1).jar"
+  },
+                 {
+    "name": "placebo.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Placebo-1.20.1-8.6.3.jar"
+  },
+               {
+    "name": "fastanims.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/FastSuite-1.20.1-5.1.2.jar"
+  },
+               {
+    "name": "entityculling.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/entityculling-forge-1.10.2-mc1.20.1.jar"
+  },
+               {
+    "name": "watut.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/watut-forge-1.20.1-1.2.3.jar"
+  },
+  
             {
     "name": "zombieaddon.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/zombieawareness-1.20.1-1.13.1.jar"
