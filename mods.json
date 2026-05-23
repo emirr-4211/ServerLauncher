@@ -120,25 +120,10 @@
     "name": "tpa.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/tpamod-1.2.jar"
   },
-                 {
-    "name": "aioptimize.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/AI-Improvements-1.20-0.5.2%20(1).jar"
-  },
-                 {
-    "name": "placebo.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Placebo-1.20.1-8.6.3.jar"
-  },
-               {
-    "name": "fastanims.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/FastSuite-1.20.1-5.1.2.jar"
-  },
+
                {
     "name": "entityculling.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/entityculling-forge-1.10.2-mc1.20.1.jar"
-  },
-               {
-    "name": "watut.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/watut-forge-1.20.1-1.2.3.jar"
   },
   
             {
