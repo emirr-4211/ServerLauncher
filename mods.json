@@ -131,6 +131,10 @@
     "name": "smoothboot.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/smoothboot(reloaded)-mc1.20.1-0.0.4.jar"
   },
+                  {
+    "name": "tpa.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/tpamod-1.2.jar"
+  },
             {
     "name": "zombieaddon.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/zombieawareness-1.20.1-1.13.1.jar"
