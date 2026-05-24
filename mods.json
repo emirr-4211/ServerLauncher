@@ -12,10 +12,6 @@
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/ImmediatelyFast-Forge-1.5.4+1.20.4.jar"
   },
     {
-    "name": "securitycraft.jar",
-    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/%5B1.20.1%5D%20SecurityCraft%20v1.10.1.jar"
-  },
-    {
     "name": "amendments.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/amendments-1.20-2.2.5.jar"
   },
@@ -124,6 +120,42 @@
                {
     "name": "entityculling.jar",
     "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/entityculling-forge-1.10.2-mc1.20.1.jar"
+  },
+                 {
+    "name": "clumps.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Clumps-forge-1.20.1-12.0.0.4.jar"
+  },
+                 {
+    "name": "corglib.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Corgilib-Forge-1.20.1-4.0.3.4.jar"
+  },
+                 {
+    "name": "dataacnhor.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Data_Anchor-forge-1.20.1-1.0.0.20.jar"
+  },
+                 {
+    "name": "architectury.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/architectury-9.2.14-forge.jar"
+  },
+                 {
+    "name": "simplyswords.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/simplyswords-forge-1.56.0-1.20.1.jar"
+  },
+                 {
+    "name": "undeadnights.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/UndeadNights-2.1.0-Forge-mc1.20.1.jar"
+  },
+                   {
+    "name": "Enhanced-Celestials.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/Enhanced-Celestials-forge-1.20.1-5.0.3.2.jar"
+  },
+                {
+    "name": "frameworkbackpacked.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/framework-forge-1.20.1-0.8.0.jar"
+  },
+                {
+    "name": "backpacked.jar",
+    "url": "https://github.com/emirr-4211/ServerLauncher/raw/refs/heads/main/backpacked-forge-1.20.1-3.0.9.jar"
   },
   
             {
