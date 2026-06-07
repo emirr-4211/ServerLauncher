@@ -1,6 +1,5 @@
-Serverler Kapandı
-Yeni Bir Sunucu açılana kadar güncelleme gelmeyecek
-Etkinlik vs. Yaparsak gene güncelleme gelecektir
-bilginize.
+Serverları Kapattık
 
-emirr4211
+Yeni Bir Sunucu açılana kadar güncelleme gelmeyecek
+Etkinlik için Sunucu açarsak gene güncelleme gelecektir
+fakat şuanlık durum böyle bilginize.
